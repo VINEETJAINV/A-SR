@@ -1,4 +1,6 @@
 # ASR
+![Uploading Blog-images-EL-3.jpg…]()
+
 Automatic speech recognition 
 Speech is the most basic means of adult human communication. The basic goal of speech processing is to provide an interaction between a human and a machine.
 
