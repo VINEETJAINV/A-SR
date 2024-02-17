@@ -2,7 +2,7 @@
 Automatic speech recognition 
 Speech is the most basic means of adult human communication. The basic goal of speech processing is to provide an interaction between a human and a machine.
 
-**Speech processing system has mainly three tasks:- **
+**Speech processing system has mainly three tasks:-**
 
 * First, speech recognition that allows the machine to catch the words, phrases and sentences we speak
 
